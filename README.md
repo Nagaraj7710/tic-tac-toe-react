@@ -18,6 +18,6 @@ A simple and fun Tic Tac Toe game built using **React.js**.
 
 ```bash
 git clone https://github.com/Nagaraj7710/tic-tac-toe-react.git
-cd tic-tac-toe-react
+cd tic-tac-toe-react-main
 npm install
 npm start
